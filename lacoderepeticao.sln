@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lacoderepeticao", "lacoderepeticao\lacoderepeticao.csproj", "{40A9C5F8-A3AD-4B95-94DA-ED3141CE4EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A9C5F8-A3AD-4B95-94DA-ED3141CE4EB4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{40A9C5F8-A3AD-4B95-94DA-ED3141CE4EB4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{40A9C5F8-A3AD-4B95-94DA-ED3141CE4EB4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{40A9C5F8-A3AD-4B95-94DA-ED3141CE4EB4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
